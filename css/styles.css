@@ -344,7 +344,6 @@ aside h3 {
     text-decoration: none;
     color: #333;
     font-size: 30px;
-    margin: 10px 0px 20px 20px;
 }
 
 
@@ -353,6 +352,7 @@ aside h3 {
 #articles {
     width: 860px;
     float: left;
+    margin-right: 30px;
 }
 
 #articles h2 {
@@ -371,7 +371,7 @@ aside h3 {
 }
 
 #articles article {
-    width: 100%;
+    width: 98%;
     height: auto;
     border: 1px solid #ccc;
     margin: 40px auto;
